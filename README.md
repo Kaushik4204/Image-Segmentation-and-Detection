@@ -42,18 +42,24 @@ This is a Flask-based web application that allows users to upload an image and i
 ## 📁 Project Structure
 
 ├── static/
+
 │ └── uploaded images
+
 ├── templates/
+
 │ └── index.html
+
 ├── app.py
+
 ├── yolov8m.pt
+
 ├── imagenet_classes.txt
+
 ├── requirements.txt
+
 └── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -66,21 +72,18 @@ Edit
 Create and activate a virtual environment (optional but recommended):
 
 bash
-Copy
-Edit
+
 python -m venv venv
 venv\Scripts\activate  # On Windows
 Install dependencies:
 
 bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run the Flask app:
 
 bash
-Copy
-Edit
+
 python app.py
 🖼️ UI Overview
 mathematica
