@@ -19,6 +19,10 @@ This is a Flask-based web application that allows users to upload an image and i
 
 ## 📸 Sample Output
 
+**Input**
+<img width="1357" height="601" alt="image" src="https://github.com/user-attachments/assets/dec90331-d374-490b-beb6-980e166c4351" />
+---
+**output**
 <img width="1365" height="767" alt="Screenshot 2025-07-21 222943" src="https://github.com/user-attachments/assets/5480d28b-c4f0-40bc-ad50-bcb5cca0a436" />
 <img width="1365" height="767" alt="Screenshot 2025-07-21 223149" src="https://github.com/user-attachments/assets/20c05a35-3cf8-4cf1-9722-ee86f0fcd4da" />
 <img width="1365" height="767" alt="Screenshot 2025-07-21 222913" src="https://github.com/user-attachments/assets/2f21f4de-3b52-49e4-b730-208ea73cc32e" />
