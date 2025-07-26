@@ -78,20 +78,24 @@ This is a Flask-based web application that allows users to upload an image and i
    cd image-analyzer-app
 Create and activate a virtual environment (optional but recommended):
 
-bash
 
+   ```bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
 Install dependencies:
+   ```
 
-bash
+   ```bash
 
 pip install -r requirements.txt
 Run the Flask app:
+   ```
 
-bash
 
+   ```bash
 python app.py
+
+   ```
 🖼️ UI Overview
 mathematica
 Copy
