@@ -77,20 +77,20 @@ This is a Flask-based web application that allows users to upload an image and i
    git clone https://github.com/your-username/image-analyzer-app.git
    cd image-analyzer-app
 
-Create and activate a virtual environment (optional but recommended):
+2 . Create and activate a virtual environment (optional but recommended):
    ```bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
 
    ```
-Install dependencies:
+3 . Install dependencies:
    ```bash
 
 pip install -r requirements.txt
 
    ```
 
-Run the Flask app:
+4 .Run the Flask app:
    ```bash
 python app.py
 
