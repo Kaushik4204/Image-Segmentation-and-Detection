@@ -95,14 +95,7 @@ pip install -r requirements.txt
 python app.py
 
    ```
-🖼️ UI Overview
-mathematica
-Copy
-Edit
-[ Upload Image Button ]
-[ Analyze Button ]
-[ Result Box → Species / Age / Gender ]
-[ Image Preview Box ]
+
 
 📌 Notes
 
