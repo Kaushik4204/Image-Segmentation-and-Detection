@@ -103,7 +103,9 @@ Edit
 [ Analyze Button ]
 [ Result Box → Species / Age / Gender ]
 [ Image Preview Box ]
+
 📌 Notes
+
 Ensure yolov8m.pt is present in your project directory.
 
 If imagenet_classes.txt is missing, it will be downloaded automatically.
